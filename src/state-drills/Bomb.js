@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class Bomb extends Component {
     state = 
     { 
-      count = 0,  
+      count : 0,  
     }
     componentDidMount()
     {
