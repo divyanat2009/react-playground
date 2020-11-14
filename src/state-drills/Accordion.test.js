@@ -1,7 +1,7 @@
 import React from 'react';
 import {shallow} from 'enzyme';
 import toJson from "enzyme-to-json";
-import Accordion from './state-drills/Accordion';
+import Accordion from './Accordion';
 
 const sectionsProp = [
     {
